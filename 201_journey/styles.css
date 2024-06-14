@@ -1,4 +1,4 @@
-img, p, h1, h2, .divider {
+img, p, h1, h2, h3 .divider {
     width: 100%;
     max-width: 600px;
     margin-left: auto;
@@ -16,7 +16,7 @@ p {
     font-family: "Crimson Text";
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-family: "Roboto";
 }
 
